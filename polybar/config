@@ -34,7 +34,7 @@ alert = #bd2c40
 
 [dracula]
 background = #282A36
-statusline #F8F8F2
+statusline = #F8F8F2
 separator = #44475A
 
 light = #F8F8F2
